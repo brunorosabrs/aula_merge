@@ -1,0 +1,19 @@
+Qual é a função do comando git add?
+Adicionar o arquivo criado na espera, pronto para fazer commit
+
+
+Qual é a diferença entre git commit e git merge?
+Git commit serve para enviar o arquivo para o repotorio, descrevendo cada um para que serve. 
+Merge serve para trazer os arquivos criados nas features para a branch develop.
+
+
+Por que voltamos para a develop antes de criar a fix/cadastro?
+Para manter as duas branches de trabalhos independentes.
+
+
+Qual branch deve estar ativa quando executamos os merges do exercício?
+develop
+
+
+O que o comando git log --oneline --graph --all mostra?
+Mostra o histórico de commits completo, e também mostra todas as branches criadas e o estado atual.
